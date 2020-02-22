@@ -28,4 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-See Live [Demo](https://vue-admin-shop.netlify.com/products)
+See Live [Demo](https://vue-admin-shop.netlify.com/)
